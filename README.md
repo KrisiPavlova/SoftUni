@@ -41,4 +41,4 @@
 
 1. Клонирайте хранилището:
 ```bash
-   git clone [линк-към-твоето-репо-тук]
+   git clone [https://github.com/KrisiPavlova/SoftUni]
